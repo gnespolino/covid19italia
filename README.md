@@ -7,7 +7,7 @@ Condividiamo informazioni e segnalazioni sul COVID19
 Leggi come usare il repository nel nostro [WIKI](https://github.com/emergenzeHack/covid19italia/wiki)
 
 ## Link
- 
+
 ### E-mail
 
 [covid19ita@gmail.com](mailto:covid19ita@gmail.com)
